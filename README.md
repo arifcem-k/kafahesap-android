@@ -1,6 +1,4 @@
-# kafahesap-android
-A simple Android application for quick calculations.
-# KafaHesap
+# KafaHesap (Android)
 
 KafaHesap is a simple Android application designed for quick and practical calculations.
 
@@ -13,4 +11,12 @@ This project was developed as a standalone Android application to practice mobil
 - Offline usage
 
 ## APK Download
-The APK file can be downloaded from the Releases section.
+You can download the latest APK from the **Releases** section.
+
+## Future Plans
+- UI/UX improvements
+- Performance optimizations
+- Publishing the application on Google Play Store
+
+
+> This project is actively maintained and will receive future updates.
