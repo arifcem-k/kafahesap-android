@@ -37,7 +37,7 @@ This project includes manual QA testing activities.
 ### Test Cases
 All test cases are located in:
 
-/qa/test_cases.xlsx
+/qa/test-case.xlsx
 
 
 ### Bug Reports
