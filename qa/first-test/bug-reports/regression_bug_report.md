@@ -13,12 +13,12 @@ When multiple validation errors are shown inside the alert dialog, the message c
 ---
 
 ## Steps to Reproduce
-1. Open the application  
-2. Navigate to the **"Bilgiler"** page  
-3. Enter invalid value (e.g., `0`) for Salary field  
-4. Enter invalid value (e.g., `0`) for Working Hours field  
-5. Enter invalid value (e.g., `0`) for Working Hours field 
-6. Click on **"Kaydet"** button  
+1.Open the application
+2.Navigate to the "Bilgiler" page
+3.Enter invalid value (0) for Salary field
+4.Enter invalid value (0) for Working Hours field
+5.Enter invalid value (0) for Salary field
+6.Click on "Kaydet" button
 
 ---
 
