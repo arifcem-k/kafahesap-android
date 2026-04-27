@@ -10,8 +10,9 @@ When multiple required fields are filled with invalid values, the system display
 1. Open the application  
 2. Navigate to the "Bilgiler" page  
 3. Enter invalid value (0) for Salary field  
-4. Enter invalid value (0) for Working Hours field  
-5. Click on "Kaydet" button  
+4. Enter invalid value (0) for Working Hours field
+5. Enter invalid value (0) for Salary field
+6. Click on "Kaydet" button  
 
 ## Expected Result
 All validation errors for the affected fields should be displayed simultaneously.
