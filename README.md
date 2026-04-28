@@ -1,7 +1,7 @@
 # KafaHesap (Android)
 
 KafaHesap is a simple Android application designed for quick and practical calculations.  
-This project was developed to practice Android development, UI design, and QA testing workflows.
+This project was developed to practice Android development, UI design, and QA testing workflows in a real iteration cycle.
 
 ---
 
@@ -11,7 +11,7 @@ KafaHesap is a standalone Android app focused on:
 - Clean and minimal UI
 - Offline usage
 
-This project was also used as a **QA practice environment** to simulate real-world testing scenarios.
+Beyond development, this project was used as a **QA practice environment**, simulating real-world testing and bug lifecycle scenarios including regression testing.
 
 ---
 
@@ -23,9 +23,9 @@ This project was also used as a **QA practice environment** to simulate real-wor
 
 ---
 
-## 🧪 QA Testing
+## 🧪 QA & Testing Process
 
-This project includes manual QA testing activities.
+This project was used to simulate a real QA workflow including bug discovery, fixes, and regression testing.
 
 ### Test Coverage
 - Functional Testing  
@@ -33,29 +33,39 @@ This project includes manual QA testing activities.
 - Validation Testing  
 - Data Consistency Testing  
 - Boundary Value Testing  
-
-### Test Cases
-All test cases are located in:
-
-/qa/test-case.xlsx
-
-
-### Bug Reports
-All identified issues are documented in:
-
-/qa/bug_report.md
-/qa/bug_report2.md
-
-
-### Testing Approach
-- Positive and negative scenarios were tested  
-- Input validation was verified  
-- UI behavior and layout consistency were checked  
-- Data persistence and consistency were validated  
+- Regression Testing  
 
 ---
 
-## 📦 APK
+### 🐞 Bug Lifecycle
+During testing, several issues were identified and resolved:
+
+- Multiple validation messages not displayed correctly
+- UI overflow issues in history screen
+- Validation logic inconsistencies affecting user feedback
+
+After each fix, **regression testing was performed** to ensure no new issues were introduced.
+
+---
+
+### 📂 Test Artifacts
+- Test cases: `/qa/first-test/test-cases`
+- Bug reports:  
+  `/qa/first-test/bug-reports`  
+
+
+---
+
+### 🧪 Testing Approach
+- Positive and negative scenarios tested  
+- Input validation verified  
+- UI behavior and layout consistency checked  
+- Data consistency validated  
+- Regression cycles executed after fixes  
+
+---
+
+## 📦 Release
 Latest APK is available in the **Releases** section.
 
 ---
@@ -71,8 +81,8 @@ Latest APK is available in the **Releases** section.
 - UI/UX improvements  
 - Performance optimizations  
 - Feature expansion  
-- Google Play Store release  
+- Play Store deployment  
 
 ---
 
-> This project combines Android development with QA testing practice.
+> This project demonstrates the full cycle of development → testing → bug fixing → regression validation in a mobile QA context.
