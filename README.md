@@ -5,7 +5,7 @@ This project was developed to practice Android development, UI design, and QA te
 
 ---
 
-## 📱 About
+##  About
 KafaHesap is a standalone Android app focused on:
 - Simple and fast calculations
 - Clean and minimal UI
@@ -15,7 +15,7 @@ Beyond development, this project was used as a **QA practice environment**, simu
 
 ---
 
-## ⚙️ Features
+##  Features
 - Fast calculation logic
 - Minimal and user-friendly UI
 - Offline usage
@@ -23,7 +23,7 @@ Beyond development, this project was used as a **QA practice environment**, simu
 
 ---
 
-## 🧪 QA & Testing Process
+##  QA & Testing Process
 
 This project was used to simulate a real QA workflow including bug discovery, fixes, and regression testing.
 
@@ -37,7 +37,7 @@ This project was used to simulate a real QA workflow including bug discovery, fi
 
 ---
 
-### 🐞 Bug Lifecycle
+###  Bug Lifecycle
 During testing, several issues were identified and resolved:
 
 - Multiple validation messages not displayed correctly
@@ -48,7 +48,7 @@ After each fix, **regression testing was performed** to ensure no new issues wer
 
 ---
 
-### 📂 Test Artifacts
+###  Test Artifacts
 - Test cases: `/qa/first-test/test-cases`
 - Bug reports:  
   `/qa/first-test/bug-reports`  
@@ -56,7 +56,7 @@ After each fix, **regression testing was performed** to ensure no new issues wer
 
 ---
 
-### 🧪 Testing Approach
+###  Testing Approach
 - Positive and negative scenarios tested  
 - Input validation verified  
 - UI behavior and layout consistency checked  
@@ -65,19 +65,19 @@ After each fix, **regression testing was performed** to ensure no new issues wer
 
 ---
 
-## 📦 Release
+##  Release
 Latest APK is available in the **Releases** section.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Android (Java/Kotlin)
 - XML (UI Design)
 - Manual QA Testing
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 - UI/UX improvements  
 - Performance optimizations  
 - Feature expansion  
